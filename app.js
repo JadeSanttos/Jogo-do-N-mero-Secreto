@@ -12,7 +12,7 @@ function exibirMensagemInicial(){
     exibirTextoNaTela ('h1' , 'jogo do número secreto');
     exibirTextoNaTela ('p' , 'Escolha um número entre 1 e 10');
 }
-
+exibirMensagemInicial ('Bem-Vindo ao jogo do número secreto!');
 exibirTextoNaTela ();
 
 function verificarChute(){
